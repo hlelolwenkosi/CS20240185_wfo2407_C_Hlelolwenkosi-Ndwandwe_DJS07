@@ -6,8 +6,8 @@ import Meme from "./components/Meme"
 export default function App() {
     return (
         <div>
-            <Header />
-            <Meme />
+            <Header/>
+            <Meme/>
         </div>
     )
 }
